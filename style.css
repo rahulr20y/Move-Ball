@@ -1,0 +1,15 @@
+
+#instruction{
+	opacity: 0.6;
+}
+
+#ball {
+    width: 12vw;
+    height: 12vw;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    opacity: 0.8;
+}
